@@ -15,4 +15,4 @@ FEEDS = {
 }
 
 NOW_TIME = datetime.strftime(datetime.now(), '%Y-%m-%dT%H-%M-%S')
-BASE_DIR = Path(__file__).parent.parent
+
