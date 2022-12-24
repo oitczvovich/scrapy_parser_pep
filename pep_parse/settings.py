@@ -1,5 +1,4 @@
 from datetime import datetime
-from pathlib import Path
 
 BOT_NAME = 'pep_parse'
 SPIDER_MODULES = ['pep_parse.spiders']
@@ -13,6 +12,4 @@ FEEDS = {
         'overwrite': True
     },
 }
-
 NOW_TIME = datetime.strftime(datetime.now(), '%Y-%m-%dT%H-%M-%S')
-

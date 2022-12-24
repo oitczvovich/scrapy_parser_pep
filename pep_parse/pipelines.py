@@ -9,7 +9,6 @@ from .settings import NOW_TIME
 BASE_DIR = Path(__file__).parent.parent
 
 
-
 class PepParsePipeline:
     def open_spider(self, spider):
         self.__status_dict = {}
