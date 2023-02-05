@@ -20,4 +20,5 @@ scrapy crawl pep
 Данные сохрянтся в файлах.csv в директории results/, находящейся в корне проекта
 
 ## Над проектом работали
-- [Владимир Скалацкий](https://t.me/OitcZvovich)
+Скалацкий Владимир
+e-mail: skalakcii@yandex.ru
